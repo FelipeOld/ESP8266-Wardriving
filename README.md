@@ -57,6 +57,12 @@ Isso evita comportamentos estranhos, como não receber dados do GPS ou não envi
 
 Tutorial: https://www.youtube.com/watch?v=pFHUPs51CRQ
 
+## Links úteis para teste dos dados recebidos
+
+Converter coordenadas e baixar arquivo KML com uma localicação informada: https://www.earthpoint.us/convert.aspx
+
+Caso queira coletar o dado bruto do GPS ou conectar ele a um conversor USB serial para validar o funcionamento, o link a seguir é útil para entender os dados recebidos: http://aprs.gids.nl/nmea/
+
 ****
 <p align="center">
   <img src="https://raw.githubusercontent.com/FelipeOld/ESP8266-Wardriving/master/wardriving_kit.jpg" width="350" title="hover text">
