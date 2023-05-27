@@ -17,7 +17,7 @@ Qualquer placa baseada no microcontrolador ESP8266 deve funcionar com os compone
 **Componentes opcionais:**
 | Componente | Propósito | 
 | --- | --- |
-| 128x64 OLED | Ter um feedback viausl dos dados coletados |
+| 128x64 OLED | Ter um feedback visual dos dados coletados |
 | Bateria LiPo | Alimentar o módulo ESP8266 e demais módulos através do shield |
 | Módulo de bateria | Gerenciar energia para o ESP8266 quando usando uma bateria LiPo |
 | Resistor 100K Ω | Opcional para realizar a leitura do nível de carga da bateria com o Wemos D1 mini |
