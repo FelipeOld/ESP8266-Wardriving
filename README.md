@@ -114,6 +114,6 @@ Tutorial: https://www.youtube.com/watch?v=pFHUPs51CRQ
 
 ****
 <p align="center">
-  <img src="[your_relative_path_here](https://github.com/FelipeOld/ESP8266-Wardriving/blob/master/wardriving_kit.jpg)" width="350" title="hover text">
+  <img src="https://raw.githubusercontent.com/FelipeOld/ESP8266-Wardriving/master/wardriving_kit.jpg" width="350" title="hover text">
 </p>
 
