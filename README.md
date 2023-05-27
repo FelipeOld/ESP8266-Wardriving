@@ -112,3 +112,4 @@ Isso evita comportamentos estranhos, como não receber dados do GPS ou não envi
 
 Tutorial: https://www.youtube.com/watch?v=pFHUPs51CRQ
 
+wardriving_kit.jpg
