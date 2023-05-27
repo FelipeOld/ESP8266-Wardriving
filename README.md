@@ -106,7 +106,7 @@ Any ESP8266-based board should work with the basic required components, but the 
 If you are using SD card shield and intend to use OLED display in this stack I strongly recommend disconnect data pins D1 to D4 to connect OLED and GPS modules directly to Wemos D1 mini. This avoid strange behaviors like dont receive data from GPS or dont send any data to display and misconnect through SD card shield.
 
 **GPS Module** 
-| GPS Pin | ESP8266 GPIO | D1 Mini Pin |
+| OLED Pin | ESP8266 GPIO | D1 Mini Pin |
 | --- | --- | --- |
 | VCC | 5V | 5V |
 | TX | GPIO2 | D4 |
