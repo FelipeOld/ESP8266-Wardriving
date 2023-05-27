@@ -26,7 +26,7 @@ Any ESP8266-based board should work with the basic required components, but the 
 **SD Reader Module** 
 | SD Reader Pin | ESP8266 GPIO | D1 Mini Pin |
 | --- | --- | --- |
-| VCC | 5V | 5V |
+| VCC | 3.3V | 3.3V |
 | MISO | GPIO12 | D6 |
 | MOSI | GPIO13 | D7 |
 | SCK | GPIO14 | D5 |
