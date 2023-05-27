@@ -2,7 +2,7 @@
 # ESP8266 Wardriving
 Um compilado de scripts e recursos para realizar a prática de wardriving com o [ESP8266 WiFi microcontroller](https://www.espressif.com/en/products/socs/esp8266), incluindo ferramentas de visualização de dados com in Jupyter Notebook.
 
-A documentação desta página está em desenvolvimento.
+A documentação e código estão em desenvolvimento em desenvolvimento. Atualmente trabalhando na resolução da pendência de repetição das redes coletadas no arquivo CSV.
 
 ## Componentes
 Qualquer placa baseada no microcontrolador ESP8266 deve funcionar com os componentes básicos necessários. Entretanto a placa Wemos D1 mini é altamente recomendada em virtude do pequeno formato e possibilidade de empilhamento com os módulos/shields como SD Card e bateria. A listagem abaico contempla estes componentes.
